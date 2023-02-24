@@ -18,19 +18,19 @@ Project consists of noncredentialed and credentialed vulnerability scans using N
 <h2>Proof of Concept:</h2>
 
 <p align="center">
-Noncredentialed scan: <br/>
+<b>Noncredentialed scan: </b><br/>
 <img src="https://i.imgur.com/YAccg4R.png" height="80%" width="80%" alt="NessusScan"/>
 <br />
 <br />
-Credentialed scan:  <br/>
+<b>Credentialed scan:</b>  <br/>
 <img src="https://i.imgur.com/jPLY3gZ.png" height="80%" width="80%" alt="NessusScan"/>
 <br />
 <br />
-Credentialed scan after installing a deprecated version of Firefox (3.6.12): <br/>
+<b>Credentialed scan after installing a deprecated version of Firefox (3.6.12):</b> <br/>
 <img src="https://i.imgur.com/uegqEUD.png" height="80%" width="80%" alt="NessusScan"/>
 <br />
 <br />
-Final credentialed scan after uninstalling deprecated software and installing Windows updates:  <br/>
+<b>Final credentialed scan after uninstalling deprecated software and installing Windows updates:</b>  <br/>
 <img src="https://i.imgur.com/9ABE06Q.png" height="80%" width="80%" alt="NessusScan"/>
 <br />
 <br />
